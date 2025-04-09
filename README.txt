@@ -6,8 +6,8 @@ Bem-vindo ao meu portfólio profissional como **Engenheiro de Software**. Aqui c
 
 ## 🧠 Sobre Mim
 
-Sou **Vinícius Rodrigues**, Engenheiro de Software e Desenvolvedor Full Stack, natural de **Anápolis - GO**.  
-Atuo no desenvolvimento de **soluções inteligentes e escaláveis**, com foco em qualidade de código, arquitetura de sistemas, experiência do usuário e uso estratégico de tecnologias como **IA, automações e análise de dados**.
+Sou Vinícius Rodrigues, Engenheiro de Software e Desenvolvedor Full Stack, natural de Anápolis - GO.  
+Atuo no desenvolvimento de soluções inteligentes e escaláveis, com foco em qualidade de código, arquitetura de sistemas, experiência do usuário e uso estratégico de tecnologias como IA, automações e análise de dados.
 
 Trabalho desde o levantamento de requisitos até a entrega final, sempre com mentalidade ágil e foco em gerar valor real para os usuários e negócios.
 
