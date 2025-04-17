@@ -1,4 +1,4 @@
-# 👨‍💻 Portfólio - Vinícius Rodrigues
+# 👨‍💻 Portfólio - Vinícius Rodrigues - PROJETO EM ANDAMENTO
 
 Bem-vindo ao meu portfólio profissional como **Engenheiro de Software**. Aqui compartilho meus projetos, experiências, tecnologias dominadas e soluções desenvolvidas ao longo da minha jornada na área de tecnologia.
 
